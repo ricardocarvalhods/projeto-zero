@@ -1,6 +1,6 @@
 # Projeto Zero - Gênerro
 
-Script que recebe um nome como argumento e retorna dados de gênero, a saber: probabilidade e nomes alternativos.
+Script que recebe um nome como argumento e retorna dados de gênero, a saber: gênero mais provável, probabilidade e nomes alternativos.
 
 ## Desenvolvimento
 
