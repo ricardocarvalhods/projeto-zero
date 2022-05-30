@@ -1,4 +1,4 @@
-# Projeto Zero - Gênerro
+# Projeto Zero - Gênero
 
 Script que recebe um nome como argumento e retorna dados de gênero, a saber: gênero mais provável, probabilidade e nomes alternativos.
 
