@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Como Executar
 
-- Script principal: 'obter_genero.py'
+- Script principal: `obter_genero.py`
 - Argumentos:
   - __meu_nome__: Nome a buscar dados de gênero.
 - Execução:
